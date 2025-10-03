@@ -6,14 +6,21 @@
 <img width="859" height="540" alt="image" src="https://github.com/user-attachments/assets/41e7eb39-18c9-431f-aa92-36398b66770d" />
 
 Tema kelas kali ini adalah reptil. Jadi kelas utama adalah reptil yang memiliki atribut dan hubungan
+
          - Hierarchical inheritance terhadap 5 kelas yatu ular, kadal, kura-kura, buaya dan naga
+         
          - Nama: untuk nama spesies reptilnya
+         
          - Panjang: untuk panjang dari reptilnya
+         
          - Habitat: untuk habitat dari reptil tersebut
+         
          - Diet: jenis makanan yang dimakan oleh reptil
          
 Selanjutnya ada Kelas makhluk  mitos yang memiliki atribut
+
          - Kekuatan: untuk seberapa kuat makhluk mitos tersebut
+         
          - kekuatan spesial: untuk kekuatan spesial yang dimiliki oleh makhluk tersebut
          
 Lalu ada Kelas Naga yang memiliki hubungan dan atribut
