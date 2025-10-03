@@ -8,7 +8,6 @@
 Tema kelas kali ini adalah reptil. Jadi kelas utama adalah reptil yang memiliki atribut dan hubungan
 
          - Hierarchical inheritance terhadap 5 kelas yatu ular, kadal, kura-kura, buaya dan naga
-         
          - Nama: untuk nama spesies reptilnya
          
          - Panjang: untuk panjang dari reptilnya
