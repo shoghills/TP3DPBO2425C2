@@ -50,5 +50,11 @@ Terakhir ada kelas buaya yang memiliki hubungan dan atribut
          - Inheritance dengan orang tua reptil karena buaya adalah sejenis reptil
          - KekuatanGigit: untuk seberapa kuat gigitan buaya tersebut
          - Tingkat Agresif: untuk seberapa agresif buaya jenis tertentu
+
+
+Alur Program
+
+
+
          
          
