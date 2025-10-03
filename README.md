@@ -56,11 +56,22 @@ Alur Program
 
 pertama di main akan include semmua file kelas untuk memasukkan datanya lalu selanjutnya akan dihardcode data untuk kelas dan atributnya lalu diberikan keluaran pilihan untuk emmilih aksi yang akan dilakukan ada menampilkan menambah dan keluar program, kalau memilih tampilkan akan mengeluarkan semua data yang sudah ada ataupun ditambahkan lalu pilihan kedua untuk menambah data yang bisa menambah nama reptil dan atribut aributnya untuk cpp dan untuk python bisa menambah data ular dan pilihan terakhir untuk keluar program dan selesai
 
+CPP
+
 Menampilkan data yang sudah ada
-![Dokumentasi](cpp/dokumentasi/cpp1.png)
+![Dokumentasi](cpp/Dokumentasi/cpp1.png)
 
 manampilkan data setelah datanya ditambah
-![Dokumentasi](cpp/dokumentasi/cpp2.png)
+![Dokumentasi](cpp/Dokumentasi/cpp2.png)
+
+Python
+
+menampilkan data yang sudah ada
+![Dokumentasi](python/Dokumentasi/python1.png)
+
+Menampilkan data setelah ditambah
+![Dokumentasi](python/Dokumentasi/python2.png)
+
 
 
 
