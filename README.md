@@ -72,6 +72,14 @@ menampilkan data yang sudah ada
 Menampilkan data setelah ditambah
 ![Dokumentasi](python/Dokumentasi/python2.png)
 
+Java
+
+menampilkan data yang sudah ada
+![Dokumentasi](java/Dokumentasi/java1.png)
+
+Menampilkan data setelah ditambah
+![Dokumentasi](java/Dokumentasi/java2.png)
+
 
 
 
